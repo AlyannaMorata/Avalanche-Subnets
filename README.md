@@ -11,7 +11,3 @@ The `CustomToken` contract is an ERC-20 token with additional features. It inclu
 ### 2. SmartContractFunctionality.sol
 
 The `SmartContractFunctionality` contract provides basic smart contract functionalities, including error handling with `require`, `assert`, and `revert`. It demonstrates the use of these functions for handling various scenarios in a smart contract.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
